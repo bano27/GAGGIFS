@@ -1,0 +1,11 @@
+.search{
+  text-align: center;
+  margin: 16px;
+  font-size: 20px;
+  color: #000080;
+}
+.search input{
+  width: 600px;
+  margin-top: 15px;
+  color: #121212;
+}
