@@ -9,3 +9,8 @@
   margin-top: 15px;
   color: #121212;
 }
+.search button{
+  margin-left: 10px;
+  background-color: #CFB53B;
+  padding: 7px;
+}

@@ -1,1 +1,5 @@
-<p>gifs works!</p>
+<div class="gifs">
+  <div class="gif" *ngFor="let trendingGif of trendingGifs; index as i">
+    <img [src]="trendingGif.images.downsized.url" alt="">
+  </div>
+</div>
